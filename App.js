@@ -23,7 +23,7 @@ export default function App() {
     <View style={styles.container}>
 
       <View style={styles.taskWrapper}>
-        <Text style={styles.sectionTitle}>Today's Task</Text>
+        <Text style={styles.sectionTitle}>!!!!!!</Text>
 
         <View style={styles.items}>
           {
